@@ -8,6 +8,7 @@
 <ul>
      <li>React</li>
      <li>Socket.IO</li>
+     <li>WebRTC</li>
      <li>Material UI</li>
 </ul>
 <p>Backend</p>
